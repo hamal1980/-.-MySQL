@@ -1,4 +1,4 @@
-/2.*CREATE DB example && TABLE users*/
+/*2.CREATE DB example && TABLE users*/
 CREATE database example;
 CREATE table users;
 use example;
